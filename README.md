@@ -1,3 +1,5 @@
+![Scala CI](https://github.com/Cisco-AMP/trowel/workflows/Scala%20CI/badge.svg?branch=master)
+
 # Trowel
 A standalone application to move messages from AMQP source queues to a target exchange
 
